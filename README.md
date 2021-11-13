@@ -11,8 +11,10 @@ I have also inspired by [Ania Kubow's](https://github.com/kubowania) videos.
 You can actually playaround with this API, you can do actions like GET, POST, PUT, DELETE. You can fetch individual tea type.
 
 Example code for fetching tea:
-`fetch('https://tea-collection.herokuapp.com/types_of_tea/0')
+```
+fetch('https://tea-collection.herokuapp.com/types_of_tea/0')
   .then(response => response.json())
-  .then(data => console.log(data));`
+  .then(data => console.log(data));
+  ```
 
 If you wish to contribute to this database please make a pull request.
