@@ -4,7 +4,7 @@ Tea is an world famous beverage originated from Asia, this api allows you to fec
 
 I have bootstrapped this project with <https://github.com/typicode/json-server> package. It allows us to get `Mock Rest API` with zero coding in less than 30 seconds.
 
-I have also inspired by [Ania Kubow's](https://github.com/kubowania) videos.
+I have also took inspiration from [Ania Kubow's](https://github.com/kubowania) videos.
 
 ## Things you can do with this API
 
