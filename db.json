@@ -1,0 +1,52 @@
+{
+  "types_of_tea": [
+    {
+      "Type": "Black Tea",
+      "Source": "Made from the camellia sinesis Tea plant, fully or almost fully oxidized",
+      "Varities": "Assam Tea, Earl Grey Tea, Darjeeling Tea,English Breakfast Tea",
+      "Advantages": "Protects lung damage caused by exposure to cigarette smoke, Expands airways making breathing easier for asthmatics, Improves brain function",
+      "Color": "Black",
+      "Origin": "China"
+    },
+    {
+      "Type": "Green Tea",
+      "Source": "Made from Camellia sinensis Tea plant, that have not undergone the same withering or unoxidized.",
+      "Varities": "Matcha,Sencha,Gunpowder Tea, Dragonwell Green Tea",
+      "Advantages": "Prevents aging,Reduce Risk of Stroke, Antioxidants interferes with growth of cancers",
+      "Color": "Green",
+      "Origin": "China"
+    },
+    {
+      "Type": "Herbal Tea",
+      "Source": "Made from infused dried herbs,fruits, and flowers",
+      "Varities": "Hibiscus Tea,Peppermint,Chamomile Tea,Yerba Mate",
+      "Advantages": "Fights the Cold,Improves Digestion,Relieve Stress and Anxiety,Lower Blood Pressure",
+      "Color": "Brown",
+      "Origin": "Ancient Egypt and Ancient China"
+    },
+    {
+      "Type": "White Tea",
+      "Source": "Made for Camellia sinensis , slightly oxidized - buds covered by minuscule white hairs are harvested",
+      "Varities": "Silver Needle, White Peony",
+      "Advantages": "Reduce the Risk of Heart Disease,More potent anticancer properties than processed Teas, Lower risk  of insulin resistance",
+      "Color": "Slightly brown",
+      "Origin": "China"
+    },
+    {
+      "Type": "Oolang Tea",
+      "Source": "Made for Camellia sinensis plant - partially oxidized",
+      "Varities": "Ti Kuan Yin (Iron Goddess of Mercy),Dan Cong (Phoenix Tea)",
+      "Advantages": "Helps to lower cholesterol levels,Possible use as weight loss supplement, Helps people with diabetes to keep sugar level in line",
+      "Color": "Light orange",
+      "Origin": "China"
+    },
+    {
+      "Type": "Rooibos Tea",
+      "Source": "Made from dried rooibos plant - partially oxidized",
+      "Varities": "Red Rooibos,Green Rooibos",
+      "Advantages": "Posses some cancer fighting properties, Aids in regeneration of liver tissues, Helps to reduce cramps and grastrointestinal distress",
+      "Color": "Saffron",
+      "Origin": "South Africa"
+    }
+  ]
+}
